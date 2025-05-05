@@ -151,7 +151,7 @@ header h1 {
 /* Style links inside list items */
 .navbar li a {
   display: block;
-  padding: .5rem rem;
+  padding: .5rem 1rem;
 }
 
 /* Hover effect for navbar links */
@@ -217,7 +217,7 @@ main {
 }
 
 /* Inner content padding */
-.card content {
+.card-content {
   padding: 1.4rem;
 }
 
